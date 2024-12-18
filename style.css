@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-image: url("th.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:aquamarine
+
+}
+
+th, td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+img {
+    border-radius: 100px;
+}
+li{
+    display: inline;
+    color: wheat
+}
+.container{
+    background-color: wheat;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: 630px;
+}
+.con{
+    
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
